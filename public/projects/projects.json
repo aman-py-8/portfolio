@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Ticket Show",
+    "desc": "Web Based Movie Ticketing App similar to BookMyShow using Flask for the backend and Jinja for templating, with HTML and CSS for the frontend.",
+    "image": "ticketshow",
+    "category": "basicweb",
+    "links": {
+      "view": "https://amangautam8.pythonanywhere.com/",
+      "code": "https://github.com/aman-py-8/Ticket-Show"
+    },
+    "showCodeButton": true
+  },
+  {
+    "name": "Library Management System",
+    "desc": "Library Management System web app using Flask for the backend and Vue.js for the frontend, with Bootstrap for styling and layout.",
+    "image": "library",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    },
+    "showCodeButton": true
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio2",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    },
+    "showCodeButton": true
+  },
+  {
+    "name": "Capstone Project: Business Data Management",
+    "desc": "Analyzed sales data to identify trends and inefficiencies, providing insights that improved inventory management and boosted sales.",
+    "image": "capstone",
+    "category": "datasci",
+    "links": {
+      "view": "https://docs.google.com/presentation/d/1fnJvmtM6DZYvnzlA-gnEQHnOBI8WYi2vKdZgKhoT6-s/edit?usp=sharing",
+      "code": "#"
+    },
+    "showCodeButton": false
+  },
+  {
+    "name": "Recipe for Rating: Predicting Food Ratings using ML",
+    "desc": "Created a machine learning model to classify food ratings, using EDA, preprocessing, and hyperparameter tuning for high accuracy.",
+    "image": "foodrev",
+    "category": "datasci",
+    "links": {
+      "view": "https://www.kaggle.com/competitions/recipe-for-rating-predict-food-ratings-using-ml/overview",
+      "code": "https://github.com/aman-py-8/food-rating-prediction"
+    },
+    "showCodeButton": true
+  }
+]
