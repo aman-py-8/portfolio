@@ -40,23 +40,45 @@ html::-webkit-scrollbar-thumb {
   background: #420177;
 }
 
-/* pre loader start */
+/* Preloader Start */
 .loader-container {
   position: fixed;
   top: 0;
   left: 0;
   z-index: 10000;
-  background: #e6eff1;
+  background: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
   width: 100%;
+  transition: top 0.5s ease-in-out; /* Smooth transition for fade-out */
 }
+
+.loader-container img {
+  width: 150px; /* Default size for larger screens */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Fade-out animation */
 .loader-container.fade-out {
   top: -120%;
 }
-/* pre loader end */
+
+/* Responsive Design */
+@media (max-width: 768px) { /* Tablets */
+  .loader-container img {
+    width: 100px; /* Adjust loader size for medium screens */
+  }
+}
+
+@media (max-width: 480px) { /* Mobile devices */
+  .loader-container img {
+    width: 80px; /* Adjust loader size for small screens */
+  }
+}
+/* Preloader End */
+
 
 /* navbar starts */
 header {
