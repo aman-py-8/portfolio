@@ -8,7 +8,8 @@
       "view": "https://amangautam8.pythonanywhere.com/",
       "code": "https://github.com/aman-py-8/Ticket-Show"
     },
-    "showCodeButton": true
+    "showCodeButton": true,
+    "showViewButton": true
   },
   {
     "name": "Library Management System",
@@ -17,9 +18,10 @@
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/aman-py-8/Library-Management-System"
     },
-    "showCodeButton": true
+    "showCodeButton": true,
+    "showViewButton": true
   },
   {
     "name": "Portfolio Website",
@@ -27,10 +29,11 @@
     "image": "portfolio2",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://amanxpy.web.app",
+      "code": "https://github.com/aman-py-8/portfolio"
     },
-    "showCodeButton": true
+    "showCodeButton": true,
+    "showViewButton": true
   },
   {
     "name": "Capstone Project: Business Data Management",
@@ -41,7 +44,8 @@
       "view": "https://docs.google.com/presentation/d/1fnJvmtM6DZYvnzlA-gnEQHnOBI8WYi2vKdZgKhoT6-s/edit?usp=sharing",
       "code": "#"
     },
-    "showCodeButton": false
+    "showCodeButton": false,
+    "showViewButton": true
   },
   {
     "name": "Recipe for Rating: Predicting Food Ratings using ML",
@@ -49,9 +53,10 @@
     "image": "foodrev",
     "category": "datasci",
     "links": {
-      "view": "https://www.kaggle.com/competitions/recipe-for-rating-predict-food-ratings-using-ml/overview",
+      "view": "https://github.com/aman-py-8/food-rating-prediction/blob/main/notebooks/food%20rating.ipynb",
       "code": "https://github.com/aman-py-8/food-rating-prediction"
     },
-    "showCodeButton": true
+    "showCodeButton": true,
+    "showViewButton": true
   }
 ]
